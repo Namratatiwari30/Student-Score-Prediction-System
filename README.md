@@ -1,23 +1,119 @@
-# Student-Score-Prediction-System
-AI &amp; ML Internship project focused on building a Student Score Prediction System using Python, NumPy, Pandas, Matplotlib, and Scikit-learn. This repository contains daily internship tasks, data analysis, machine learning model development, predictions, evaluation, and project documentation.
-Student Score Prediction System
+# Student Score Prediction System
 
-Day 1 Completed
+## AI & ML Internship Project
 
-Tasks Completed:
+This project was developed as part of the AI & Machine Learning Internship. The objective of the project is to predict a student's examination score based on the number of study hours using Machine Learning.
 
-- Python Installation
-- VS Code Installation
-- Jupyter Notebook Installation
-- Git Installation
-- GitHub Repository Creation
-- First Python Program Execution
+## Technologies Used
 
-First Python Program
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Git & GitHub
 
-print("Hello World")
-print("AI & ML Internship Day 1")
+## Project Dataset
 
-Outcome
+The dataset contains:
 
-Development environment successfully configured and ready for AI & Machine Learning project development.
+- Study Hours
+- Student Scores
+
+File:
+- student_scores.csv
+
+## Internship Tasks Completed
+
+### Day 1 - Environment Setup
+- Installed Python
+- Installed VS Code
+- Installed Jupyter Notebook
+- Installed Git
+- Created GitHub Repository
+- Executed First Python Program
+
+### Day 2 - Python Basics
+- Variables
+- Data Types
+- Operators
+- Loops
+- Functions
+
+### Day 3 - NumPy
+- NumPy Arrays
+- Array Operations
+- Mathematical Calculations
+
+### Day 4 - Pandas
+- Dataset Loading
+- Dataset Information
+- Data Exploration
+
+### Day 5 - Data Cleaning
+- Missing Value Checking
+- Duplicate Removal
+- Dataset Statistics
+
+### Day 6 - Data Visualization
+- Scatter Plot
+- Data Visualization using Matplotlib
+
+### Day 7 - Machine Learning Basics
+- Train-Test Split
+- Supervised Learning Concepts
+
+### Day 8 - Model Building
+- Linear Regression Model
+- Model Training
+
+### Day 9 - Prediction
+- Student Score Prediction
+
+### Day 10 - Model Evaluation
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+
+### Day 11 - Prediction Application
+- User Input Based Prediction System
+
+### Day 12 - Project Improvement
+- Code Organization
+- Documentation Improvement
+
+### Day 13 - GitHub Project Publishing
+- Project Uploaded to GitHub
+
+### Day 14 - Final Submission
+- Repository Ready for Submission
+
+## Project Structure
+
+```text
+Student-Score-Prediction-System
+│
+├── README.md
+├── student_scores.csv
+├── day1.py
+├── day2.py
+├── day3.py
+├── day4.py
+├── day5.py
+├── day6.py
+├── day7.py
+├── day8.py
+├── day9.py
+├── day10.py
+└── day11.py
+```
+
+## Project Outcome
+
+The machine learning model successfully predicts student examination scores based on study hours using Linear Regression.
+
+## Author
+
+Namrata Tiwari
+
+AI & ML Internship Project
